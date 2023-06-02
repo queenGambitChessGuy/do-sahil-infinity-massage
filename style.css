@@ -1,0 +1,58 @@
+#body
+{
+    text-align: center;
+}
+
+#title1 
+{
+    color:darkgreen;
+    font-family: algerian;
+    font-size: 80;
+    font-weight: bolder;
+    text-align:center;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+#title2
+{
+    color:green;
+    font-family: algerian;
+    font-size: 70;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 20;
+}
+
+#tree1
+{
+    margin-top: 20;
+    margin-bottom: 0;
+    margin-left: 200;
+    margin-right: 400;
+}
+
+#tree2
+{
+    margin-top: 20;
+    margin-bottom: 0;
+    margin-left: 350;
+    margin-right: 200;
+    border-color: rgb(87, 159, 87);
+    border-width: 3;
+    border-style: solid;
+}
+
+#madeBy
+{
+    text-align: center;
+    font-size: 20;
+    position: fixed;
+    margin-bottom: 0;
+    background-color: gray;
+    color:black;
+    font-family: calibri;
+    width: 1900;
+
+}
